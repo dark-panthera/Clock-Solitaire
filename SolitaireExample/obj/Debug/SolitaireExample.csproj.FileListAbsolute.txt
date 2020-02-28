@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Solitaire\SolitaireExample\obj\Debug\SolitaireExample.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Solitaire\SolitaireExample\bin\Debug\SolitaireExample.exe.config
+C:\Users\User\Desktop\Solitaire\SolitaireExample\bin\Debug\SolitaireExample.exe
+C:\Users\User\Desktop\Solitaire\SolitaireExample\bin\Debug\SolitaireExample.pdb
+C:\Users\User\Desktop\Solitaire\SolitaireExample\obj\Debug\SolitaireExample.exe
+C:\Users\User\Desktop\Solitaire\SolitaireExample\obj\Debug\SolitaireExample.pdb
